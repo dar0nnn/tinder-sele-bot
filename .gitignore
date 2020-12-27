@@ -1,0 +1,5 @@
+tinder_traceback.log
+LOGGER_CONFIG.ini
+CONF.ini
+.idea/
+__pycache__/

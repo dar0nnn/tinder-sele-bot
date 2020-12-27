@@ -1,0 +1,11 @@
+[login_settings]
+FB_LOGIN = 'your@email.com'
+FB_PASSWORD = 'password'
+
+[general_settings]
+TIMEOUT = 5
+LOG_LEVEL = INFO
+MESSAGE_ON_MATCH = Привет, тебя лайкнул мой бот для тиндера. Если заинтересована в продолжении отправь мне фразу "Ты очень сексуаленый", я получу уведомление и смогу тебе ответить
+
+[docker]
+SELENIUM_IMAGE = selenium/standalone-chrome:3.141.59
